@@ -1,0 +1,107 @@
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #f9fbfd;
+  width: 1440px;
+  height: 950px;
+}
+.company {
+  margin-block-start: 0;
+  margin-block-end: 8px;
+  font-size: 28px;
+}
+.blankLine1 {
+  font-weight: 500;
+}
+.blankLine {
+  margin-block-start: 0;
+  margin-block-end: 8px;
+}
+.securityAndCertification {
+  margin: 0;
+}
+.companyAboutBlogContainer {
+  position: absolute;
+  top: 88px;
+  left: 72px;
+  display: inline-block;
+  width: 319px;
+  height: 343px;
+}
+.getInTouchContainer,
+.productFeaturesPluginsContainer,
+.supportContactFindContainer {
+  position: absolute;
+  top: 88px;
+  left: 391px;
+  display: inline-block;
+  width: 319px;
+  height: 343px;
+}
+.getInTouchContainer,
+.supportContactFindContainer {
+  left: 710px;
+}
+.getInTouchContainer {
+  left: 1029px;
+}
+.p {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 300;
+}
+.chatWithUsContainer {
+  position: absolute;
+  top: 647px;
+  left: 733px;
+  text-align: center;
+  display: inline-block;
+  width: 184px;
+  height: 51px;
+  font-size: 24px;
+}
+.copyright2023,
+.playDigitalSignage {
+  position: absolute;
+  left: 314px;
+  font-weight: 300;
+  text-align: center;
+  display: inline-block;
+  width: 813px;
+  height: 19px;
+}
+.playDigitalSignage {
+  top: 715px;
+  line-height: 30px;
+}
+.copyright2023 {
+  top: 836px;
+  font-size: 12px;
+}
+.image1Icon,
+.image40Icon {
+  position: absolute;
+  top: 643px;
+  left: 524px;
+  width: 144px;
+  height: 59px;
+  object-fit: cover;
+}
+.image40Icon {
+  top: 769px;
+  left: 1252px;
+  width: 150px;
+  height: 154.78px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 9364px;
+  left: 0;
+  width: 1440px;
+  height: 950px;
+  text-align: left;
+  font-size: 18px;
+  color: #000;
+  font-family: "Albert Sans";
+}

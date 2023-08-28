@@ -1,0 +1,1316 @@
+.homeDChild {
+  position: absolute;
+  top: 2248px;
+  left: 0;
+  background-color: #f6f8fb;
+  width: 1440px;
+  height: 818px;
+}
+.groupChild {
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  background-color: #3e95d2;
+}
+.checkOutPlugins,
+.groupChild,
+.rectangleParent {
+  position: absolute;
+  width: 231px;
+  height: 67px;
+}
+.checkOutPlugins {
+  top: 0;
+  left: 0;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: "Albert Sans";
+  color: #fff;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangleParent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 2899px;
+  left: 605px;
+}
+.image5Icon {
+  position: absolute;
+  top: 0;
+  left: 216px;
+  width: 216px;
+  height: 128.46px;
+  object-fit: cover;
+}
+.image10Icon,
+.image11Icon,
+.image6Icon,
+.image7Icon,
+.image8Icon,
+.image9Icon {
+  position: absolute;
+  top: 0;
+  left: 432px;
+  width: 216px;
+  height: 128.46px;
+  object-fit: cover;
+}
+.image10Icon,
+.image11Icon,
+.image7Icon,
+.image8Icon,
+.image9Icon {
+  left: 648px;
+}
+.image10Icon,
+.image11Icon,
+.image8Icon,
+.image9Icon {
+  left: 0;
+}
+.image10Icon,
+.image11Icon,
+.image9Icon {
+  left: 864px;
+  height: 128.34px;
+}
+.image10Icon,
+.image11Icon {
+  left: 1080px;
+}
+.image11Icon {
+  top: 128.54px;
+  left: 0;
+  height: 128.46px;
+}
+.image12Icon,
+.image13Icon,
+.image14Icon,
+.image15Icon,
+.image16Icon {
+  position: absolute;
+  top: 128.54px;
+  left: 216px;
+  width: 216px;
+  height: 128.34px;
+  object-fit: cover;
+}
+.image13Icon,
+.image14Icon,
+.image15Icon,
+.image16Icon {
+  left: 432px;
+  height: 128.46px;
+}
+.image14Icon,
+.image15Icon,
+.image16Icon {
+  left: 648px;
+  height: 128.34px;
+}
+.image15Icon,
+.image16Icon {
+  left: 864px;
+}
+.image16Icon {
+  left: 1080px;
+}
+.image5Parent {
+  position: absolute;
+  top: 2542px;
+  left: 72px;
+  width: 1296px;
+  height: 257px;
+}
+.discoverExcitingPlugins {
+  margin: 0;
+  font-size: 48px;
+  font-weight: 600;
+}
+.blankLine {
+  margin: 0;
+  line-height: 30px;
+  font-weight: 300;
+}
+.discoverExcitingPluginsContainer {
+  position: absolute;
+  top: 2336px;
+  left: 144px;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  width: 1152px;
+  height: 156px;
+  font-size: 18px;
+  font-family: "Albert Sans";
+}
+.image37Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 318.72px;
+  height: 100px;
+  object-fit: cover;
+}
+.image38Icon {
+  top: 0;
+  left: 881px;
+  width: 318.96px;
+  object-fit: cover;
+}
+.image37Parent,
+.image38Icon,
+.image39Icon {
+  position: absolute;
+  height: 100px;
+}
+.image39Icon {
+  top: 0;
+  left: 442px;
+  width: 318.96px;
+  object-fit: cover;
+}
+.image37Parent {
+  top: 8380px;
+  left: 120px;
+  width: 1199.96px;
+}
+.partners,
+.pricing,
+.product,
+.solutions,
+.support {
+  position: absolute;
+  top: 11px;
+  left: 107px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 96px;
+  height: 17px;
+}
+.partners,
+.pricing,
+.solutions,
+.support {
+  left: 212px;
+}
+.partners,
+.pricing,
+.support {
+  left: 314px;
+}
+.partners,
+.support {
+  left: 412px;
+}
+.partners {
+  left: 513px;
+}
+.getStarted,
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 638px;
+  width: 100px;
+  height: 40px;
+}
+.groupItem {
+  border-radius: 20px;
+  background-color: #3e95d2;
+}
+.getStarted {
+  font-weight: 600;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.image130Icon,
+.image1Icon {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  width: 80px;
+  height: 32.78px;
+  object-fit: cover;
+}
+.image130Icon {
+  top: 11px;
+  left: 788px;
+  width: 15.37px;
+  height: 17px;
+}
+.productParent {
+  position: absolute;
+  top: 15px;
+  left: 318px;
+  width: 803.37px;
+  height: 40px;
+  font-size: 14px;
+  color: #606061;
+}
+.globalReachForContainer {
+  position: absolute;
+  top: 3205px;
+  left: 144px;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  width: 1152px;
+  height: 215px;
+  font-size: 18px;
+  font-family: "Albert Sans";
+}
+.groupInner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  background-color: #3e95d2;
+  width: 231px;
+  height: 60px;
+}
+.checkOutFeatures {
+  position: absolute;
+  top: 20px;
+  left: 11px;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: "Albert Sans";
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  width: 208px;
+  height: 26px;
+}
+.rectangleGroup {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 4450px;
+  left: 605px;
+  width: 231px;
+  height: 60px;
+}
+.homeDItem {
+  position: absolute;
+  top: 3412px;
+  left: 72px;
+  border-radius: 20px;
+  background-color: #f9fbfd;
+  width: 756px;
+  height: 276px;
+}
+.engageWithAnimations {
+  margin: 0;
+}
+.blankLine2 {
+  margin: 0;
+  color: #000;
+}
+.usingAnimationsYou {
+  line-height: 30px;
+}
+.usingAnimationsYouCanAdd {
+  margin: 0;
+  font-size: 18px;
+}
+.learnMoreAbout {
+  font-weight: 600;
+  font-family: "Albert Sans";
+  color: #3e95d2;
+}
+.engageWithAnimationsContainer {
+  position: absolute;
+  top: 3447px;
+  left: 177px;
+  text-align: left;
+  display: inline-block;
+  width: 611px;
+  height: 175px;
+  font-size: 27px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  background-color: #3e95d2;
+  width: 1296px;
+  height: 205px;
+}
+.p {
+  margin: 0;
+  font-size: 60px;
+}
+.countriesTxt {
+  line-break: anywhere;
+  width: 100%;
+}
+.countries {
+  position: absolute;
+  top: 29px;
+  left: 862px;
+  line-height: 25px;
+  display: flex;
+  align-items: center;
+  width: 432px;
+  height: 171px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.p1 {
+  margin: 0;
+  font-size: 80px;
+}
+.onlineScreens,
+.organizations {
+  position: absolute;
+  top: 29px;
+  left: 432px;
+  line-height: 25px;
+  display: flex;
+  align-items: center;
+  width: 430px;
+  height: 171px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.organizations {
+  left: 0;
+  width: 432px;
+}
+.rectangleContainer {
+  position: absolute;
+  top: 4610px;
+  left: 72px;
+  width: 1296px;
+  height: 205px;
+  text-align: center;
+  font-size: 30px;
+  color: #fff;
+  font-family: "Albert Sans";
+}
+.homeDInner {
+  position: absolute;
+  top: 4915px;
+  left: 0;
+  background-color: #f9fbfd;
+  width: 1440px;
+  height: 755px;
+}
+.howDoesDigital {
+  font-size: 48px;
+  font-weight: 600;
+  font-family: "Albert Sans";
+}
+.discoverMorePossibilitiesContainer,
+.howDoesDigitalContainer {
+  position: absolute;
+  top: 5004px;
+  left: 159px;
+  color: #000;
+  display: inline-block;
+  width: 1152px;
+  height: 133px;
+}
+.discoverMorePossibilitiesContainer {
+  top: 6420px;
+  left: 72px;
+  width: 1296px;
+  height: 180px;
+}
+.homeDChild1,
+.homeDChild2,
+.homeDChild3,
+.homeDChild4 {
+  position: absolute;
+  top: 7433px;
+  left: 72px;
+  border-radius: 20px;
+  background-color: #f9fbfd;
+  width: 415px;
+  height: 350px;
+}
+.homeDChild2,
+.homeDChild3,
+.homeDChild4 {
+  top: 7823px;
+  width: 405px;
+  height: 369px;
+}
+.homeDChild3,
+.homeDChild4 {
+  left: 517px;
+}
+.homeDChild4 {
+  left: 962px;
+}
+.theSupportTeamIsAlwaysRea {
+  margin: 0;
+  font-size: 24px;
+  color: #000;
+}
+.universityOfUtah {
+  margin: 0;
+  font-weight: 600;
+}
+.theSupportTeamContainer {
+  position: absolute;
+  top: 7606px;
+  left: 92px;
+  display: inline-block;
+  width: 360px;
+  height: 152px;
+}
+.image35Icon {
+  position: absolute;
+  top: 7473px;
+  left: 223.33px;
+  width: 96.39px;
+  height: 100px;
+  object-fit: cover;
+}
+.theSupportTeamContainer1 {
+  position: absolute;
+  top: 7998px;
+  left: 982px;
+  display: inline-block;
+  width: 360px;
+  height: 152px;
+}
+.image37Icon1 {
+  position: absolute;
+  top: 7863px;
+  left: 1117px;
+  width: 96.39px;
+  height: 100px;
+  object-fit: cover;
+}
+.homeDChild5 {
+  position: absolute;
+  top: 6618px;
+  left: 72px;
+  border-radius: 20px;
+  background-color: #f9fbfd;
+  width: 1296px;
+  height: 386px;
+}
+.ourPlatformSupports {
+  line-height: 30px;
+  font-weight: 300;
+}
+.blankLine16 {
+  margin: 0;
+  color: #3e95d2;
+}
+.amazonFiretvStick {
+  font-weight: 600;
+}
+.digitalSignageMediaContainer {
+  position: absolute;
+  top: 6653px;
+  left: 112px;
+  text-align: left;
+  display: inline-block;
+  width: 618px;
+  height: 241px;
+  font-size: 24px;
+  color: #000;
+}
+.groupButton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 6925px;
+  left: 112px;
+  width: 231px;
+  height: 60px;
+}
+.homeDChild6 {
+  position: absolute;
+  top: 7044px;
+  left: 72px;
+  border-radius: 20px;
+  background-color: #f9fbfd;
+  width: 628px;
+  height: 349px;
+}
+.digitalSignageIs {
+  font-weight: 300;
+}
+.restaurants,
+.span {
+  font-family: "Albert Sans";
+  color: #3e95d2;
+}
+.span {
+  font-weight: 300;
+  color: #000;
+}
+.digitalSignageSolutionsContainer {
+  position: absolute;
+  top: 7079px;
+  left: 112px;
+  text-align: left;
+  display: inline-block;
+  width: 548px;
+  height: 205px;
+  font-size: 27px;
+  color: #000;
+}
+.homeDChild7 {
+  position: absolute;
+  top: 7433px;
+  left: 527px;
+  border-radius: 20px;
+  background-color: #f9fbfd;
+  width: 841px;
+  height: 350px;
+}
+.span9 {
+  color: #000;
+}
+.virginiaFamilyDentistry1 {
+  color: #3e95d2;
+}
+.span12,
+.virginiaFamilyDentistry {
+  font-family: "Albert Sans";
+}
+.span12 {
+  color: #000;
+}
+.caseStudiesDontJustContainer {
+  position: absolute;
+  top: 7468px;
+  left: 567px;
+  text-align: left;
+  display: inline-block;
+  width: 761px;
+  height: 300px;
+  font-size: 24px;
+  color: #000;
+}
+.rectangleInput,
+.seeThoseWho {
+  position: absolute;
+  top: 771 0px;
+  left: 567px;
+  width: 357px;
+  height: 60px;
+}
+.rectangleInput {
+  border: 0;
+  background-color: #3e95d2;
+  border-radius: 20px;
+}
+.seeThoseWho {
+  font-weight: 600;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.checkOutSample,
+.homeDChild8 {
+  position: absolute;
+  top: 7305px;
+  left: 112px;
+  width: 415px;
+  height: 60px;
+}
+.homeDChild8 {
+  border: 0;
+  background-color: #3e95d2;
+  border-radius: 20px;
+}
+.checkOutSample {
+  font-weight: 600;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.image20Icon {
+  position: absolute;
+  top: 7044px;
+  left: 739px;
+  border-radius: 20px;
+  width: 629px;
+  height: 349px;
+  object-fit: cover;
+}
+.playJustWorksContainer {
+  position: absolute;
+  top: 7998px;
+  left: 92px;
+  display: inline-block;
+  width: 360px;
+  height: 154px;
+}
+.image34Icon {
+  position: absolute;
+  top: 7863px;
+  left: 225px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.iDidNotContainer {
+  position: absolute;
+  top: 7998px;
+  left: 535px;
+  display: inline-block;
+  width: 360px;
+  height: 183px;
+}
+.image334Icon,
+.image36Icon,
+.image80Icon {
+  position: absolute;
+  top: 7863px;
+  left: 670px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.image334Icon,
+.image80Icon {
+  top: 5232px;
+  left: 173px;
+  width: 495px;
+  height: 327.7px;
+}
+.image334Icon {
+  top: 5334px;
+  left: 381px;
+  width: 78px;
+  height: 78px;
+}
+.homeDChild10,
+.homeDChild11,
+.homeDChild9 {
+  position: absolute;
+  top: 5232px;
+  left: 745px;
+  border-radius: 20px;
+  background-color: #fff;
+  width: 551px;
+  height: 337px;
+}
+.homeDChild10,
+.homeDChild11 {
+  top: 1154px;
+  left: 72px;
+  background-color: #f9fbfd;
+  width: 756px;
+  height: 325px;
+}
+.homeDChild11 {
+  top: 1515px;
+  width: 500px;
+  height: 314px;
+}
+.digitalSignageSoftware {
+  margin: 0;
+  font-weight: 300;
+}
+.whyChooseDigitalContainer {
+  position: absolute;
+  top: 964px;
+  left: 72px;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  width: 1294px;
+  height: 112px;
+  font-size: 18px;
+  font-family: "Albert Sans";
+}
+.whatIsDigitalSignage {
+  margin: 0;
+  font-size: 27px;
+  color: #3e95d2;
+}
+.effortlesslyManageYourContainer,
+.whatIsDigitalContainer {
+  position: absolute;
+  top: 1194px;
+  left: 177px;
+  text-align: left;
+  display: inline-block;
+  width: 609px;
+  height: 163px;
+  color: #000;
+}
+.effortlesslyManageYourContainer {
+  top: 1550px;
+  width: 355px;
+  height: 254px;
+}
+.homeDChild12 {
+  position: absolute;
+  top: 1869px;
+  left: 868px;
+  border-radius: 20px;
+  background-color: #f9fbfd;
+  width: 500px;
+  height: 279px;
+}
+.saveTimeAndContainer {
+  position: absolute;
+  top: 1904px;
+  left: 973px;
+  text-align: left;
+  display: inline-block;
+  width: 355px;
+  height: 199px;
+  color: #000;
+}
+.groupChild2,
+.homeDChild13 {
+  position: absolute;
+  top: 1519px;
+  left: 612px;
+  border-radius: 20px;
+  background-color: #f9fbfd;
+  width: 756px;
+  height: 310px;
+}
+.groupChild2 {
+  top: 0;
+  left: 0;
+  background-color: #3e95d2;
+  width: 259px;
+  height: 60px;
+}
+.checkOutThe {
+  position: absolute;
+  top: 17px;
+  left: 25px;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: "Albert Sans";
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  width: 208px;
+  height: 26px;
+}
+.rectangleParent1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1379px;
+  left: 177px;
+  width: 259px;
+  height: 60px;
+}
+.homeDChild14 {
+  position: absolute;
+  top: 1869px;
+  left: 72px;
+  border-radius: 20px;
+  background-color: #f9fbfd;
+  width: 756px;
+  height: 279px;
+}
+.blankLine32 {
+  margin: 0;
+  font-size: 18px;
+  color: #000;
+}
+.supportForMajorContainer {
+  position: absolute;
+  top: 1903px;
+  left: 177px;
+  text-align: left;
+  display: inline-block;
+  width: 609px;
+  height: 199px;
+  font-size: 27px;
+}
+.image339Icon,
+.image356Icon,
+.image524Icon {
+  position: absolute;
+  top: 1909px;
+  left: 112px;
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+}
+.image339Icon,
+.image356Icon {
+  top: 1194px;
+  height: 24.8px;
+}
+.image356Icon {
+  top: 3452px;
+  height: 16.25px;
+}
+.ourCustomersLove2 {
+  font-size: 48px;
+}
+.ourCustomersLove1 {
+  font-weight: 600;
+  font-family: "Albert Sans";
+}
+.digitalSignage2 {
+  font-size: 64px;
+}
+.blankLine39 {
+  font-size: 12px;
+  font-family: "Albert Sans";
+}
+.ourCustomersLoveContainer {
+  position: absolute;
+  top: 319px;
+  left: 72px;
+  color: #000;
+  text-align: left;
+  display: inline-block;
+  width: 597px;
+  height: 278px;
+}
+.homeDChild15 {
+  position: absolute;
+  top: 618px;
+  left: 72px;
+  border-radius: 20px;
+  background-color: #3e95d2;
+  width: 231px;
+  height: 60px;
+}
+.getStarted1,
+.orBookA {
+  position: absolute;
+  font-weight: 600;
+}
+.getStarted1 {
+  top: 618px;
+  left: 72px;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 231px;
+  height: 60px;
+}
+.orBookA {
+  top: 635px;
+  left: 338px;
+  display: inline-block;
+  width: 149px;
+  height: 26px;
+}
+.blankLine43,
+.learnMoreHow {
+  font-size: 27px;
+  font-family: "Albert Sans";
+}
+.learnMoreHow {
+  font-size: 18px;
+  font-weight: 600;
+  color: #3e95d2;
+}
+.launchYourDigitalContainer {
+  position: absolute;
+  top: 5268px;
+  left: 784px;
+  text-align: left;
+  display: inline-block;
+  width: 472px;
+  height: 302px;
+  font-size: 27px;
+  color: #000;
+}
+.bitmapIcon {
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.artboard,
+.bitmapIcon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.explainerExample2Icon,
+.image617Icon {
+  position: absolute;
+  top: 6.69px;
+  left: 6.69px;
+  width: 589.62px;
+  height: 337.04px;
+  object-fit: cover;
+}
+.image617Icon {
+  top: 126.29px;
+  left: 252.57px;
+  width: 97.02px;
+  height: 97.02px;
+}
+.artboardParent {
+  position: absolute;
+  height: 3.91%;
+  width: 41.88%;
+  top: 3.03%;
+  right: 5.14%;
+  bottom: 93.07%;
+  left: 52.99%;
+}
+.homeDChild16 {
+  position: absolute;
+  top: 5670px;
+  left: 0;
+  background-color: #3e95d2;
+  width: 1440px;
+  height: 661px;
+}
+.getStarted2,
+.homeDChild17 {
+  position: absolute;
+  top: 6071px;
+  left: 529px;
+  width: 231px;
+  height: 60px;
+}
+.homeDChild17 {
+  border-radius: 20px;
+  background-color: #fff;
+}
+.getStarted2 {
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.areYouReadyContainer,
+.orBookA1 {
+  position: absolute;
+  color: #fff;
+  display: inline-block;
+}
+.orBookA1 {
+  top: 6091px;
+  left: 800px;
+  font-weight: 600;
+  width: 165px;
+  height: 26px;
+}
+.areYouReadyContainer {
+  top: 5859px;
+  left: 157px;
+  width: 1152px;
+  height: 180px;
+}
+.image65Icon,
+.image66Icon {
+  position: absolute;
+  top: 87.55px;
+  left: 227.2px;
+  width: 51.29px;
+  height: 51.29px;
+  object-fit: cover;
+}
+.image66Icon {
+  top: 0;
+  left: 119.39px;
+  width: 51.14px;
+}
+.image67Icon,
+.image68Icon,
+.image69Icon,
+.image70Icon {
+  position: absolute;
+  top: 74.53px;
+  left: 0;
+  width: 56.42px;
+  height: 51.29px;
+  object-fit: cover;
+}
+.image68Icon,
+.image69Icon,
+.image70Icon {
+  top: 27.5px;
+  left: 190.3px;
+  width: 43.38px;
+}
+.image69Icon,
+.image70Icon {
+  top: 159.91px;
+  left: 221.41px;
+  width: 53.43px;
+}
+.image70Icon {
+  top: 208.38px;
+  left: 45.58px;
+  width: 40.81px;
+}
+.image72Icon,
+.image73Icon,
+.image74Icon,
+.image81Icon {
+  position: absolute;
+  top: 148.33px;
+  left: 4.34px;
+  width: 42.43px;
+  height: 51.29px;
+  object-fit: cover;
+}
+.image73Icon,
+.image74Icon,
+.image81Icon {
+  top: 19.54px;
+  left: 49.2px;
+  width: 51.29px;
+}
+.image74Icon,
+.image81Icon {
+  top: 215.62px;
+  left: 177.27px;
+  width: 51.37px;
+}
+.image81Icon {
+  top: 233.71px;
+  left: 107.09px;
+  width: 51.29px;
+}
+.image65Parent {
+  position: absolute;
+  top: 6668px;
+  left: 931px;
+  width: 278.49px;
+  height: 285px;
+}
+.homeDChild18,
+.homeDChild19 {
+  position: absolute;
+  top: 8680px;
+  left: 0;
+  background-color: #3e95d2;
+  width: 1440px;
+  height: 684px;
+}
+.homeDChild19 {
+  top: 9104px;
+  left: 603px;
+  border-radius: 20px;
+  background-color: #fff;
+  width: 231px;
+  height: 60px;
+}
+.itsTimeYouContainer {
+  position: absolute;
+  top: 8869px;
+  left: 74px;
+  color: #fff;
+  display: inline-block;
+  width: 1291px;
+  height: 180px;
+}
+.getStarted3 {
+  position: absolute;
+  top: 9104px;
+  left: 603px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 231px;
+  height: 60px;
+}
+.homeDChild20 {
+  position: absolute;
+  top: 1154px;
+  left: 868px;
+  border-radius: 20px;
+  background-color: #f9fbfd;
+  width: 500px;
+  height: 325px;
+}
+.customizeYourOwnContainer {
+  position: absolute;
+  top: 1188px;
+  left: 973px;
+  text-align: left;
+  display: inline-block;
+  width: 355px;
+  height: 235px;
+  color: #000;
+}
+.image335Icon {
+  position: absolute;
+  top: 1194px;
+  left: 908px;
+  width: 25px;
+  height: 25.68px;
+  object-fit: cover;
+}
+.homeDChild21,
+.image562Icon {
+  position: absolute;
+  border-radius: 20px;
+}
+.image562Icon {
+  top: 1515px;
+  left: 612px;
+  width: 756px;
+  height: 314px;
+  object-fit: cover;
+}
+.homeDChild21 {
+  top: 3412px;
+  left: 868px;
+  background-color: #f9fbfd;
+  width: 500px;
+  height: 276px;
+}
+.offlineFunctionalityNoContainer {
+  position: absolute;
+  top: 3447px;
+  left: 973px;
+  text-align: left;
+  display: inline-block;
+  width: 355px;
+  height: 213px;
+  font-size: 27px;
+}
+.image357Icon {
+  position: absolute;
+  top: 3452px;
+  left: 908px;
+  width: 25px;
+  height: 20.35px;
+  object-fit: cover;
+}
+.homeDChild22,
+.image17Icon {
+  position: absolute;
+  top: 3728px;
+  border-radius: 20px;
+  height: 276px;
+}
+.image17Icon {
+  left: 72px;
+  width: 500px;
+  object-fit: cover;
+}
+.homeDChild22 {
+  left: 612px;
+  background-color: #f9fbfd;
+  width: 756px;
+}
+.utilizeZonesOptimizeContainer {
+  position: absolute;
+  top: 3763px;
+  left: 717px;
+  text-align: left;
+  display: inline-block;
+  width: 611px;
+  height: 213px;
+  font-size: 27px;
+}
+.image353Icon {
+  position: absolute;
+  top: 3768px;
+  left: 652px;
+  width: 25px;
+  height: 29.52px;
+  object-fit: cover;
+}
+.homeDChild23 {
+  position: absolute;
+  top: 4044px;
+  left: 72px;
+  border-radius: 20px;
+  background-color: #f9fbfd;
+  width: 756px;
+  height: 306px;
+}
+.collaborateWithYourContainer {
+  position: absolute;
+  top: 4079px;
+  left: 177px;
+  text-align: left;
+  display: inline-block;
+  width: 611px;
+  height: 179px;
+  font-size: 27px;
+}
+.image355Icon {
+  position: absolute;
+  top: 4084px;
+  left: 112px;
+  width: 25px;
+  height: 23.33px;
+  object-fit: cover;
+}
+.homeDChild24 {
+  position: absolute;
+  top: 4044px;
+  left: 868px;
+  border-radius: 20px;
+  background-color: #f9fbfd;
+  width: 500px;
+  height: 306px;
+}
+.tagsTagsAllowContainer {
+  position: absolute;
+  top: 4079px;
+  left: 973px;
+  text-align: left;
+  display: inline-block;
+  width: 355px;
+  height: 260px;
+  font-size: 27px;
+}
+.image354Icon,
+.image628Icon,
+.image629Icon {
+  position: absolute;
+  top: 4084px;
+  left: 908px;
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+}
+.image628Icon,
+.image629Icon {
+  top: 1909px;
+  height: 23.25px;
+}
+.image629Icon {
+  top: 1555px;
+  left: 112px;
+  height: 25px;
+}
+.homeD {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 10314px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 18px;
+  color: #3e95d2;
+  font-family: "Albert Sans";
+}
